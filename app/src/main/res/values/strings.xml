@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework6_2</string>
+    <string name="enter">Вход</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="or">Выполните вход или зарегистрируйтесь.</string>
+    <string name="email">Введите вашу почту</string>
+    <string name="pin">Введите пароль</string>
+    <string name="btn_name">Войти</string>
+    <string name="text_pin">Забыл пароль?</string>
+    <string name="text_click_here">Нажми сюда</string>
+</resources>
